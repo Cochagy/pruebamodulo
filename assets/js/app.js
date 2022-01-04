@@ -1,5 +1,4 @@
 $("document").ready(() => {
-  
   // Carousel
   $(".carousel").carousel({
     interval: 3000,
